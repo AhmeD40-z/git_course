@@ -1,1 +1,5 @@
-# git_course
+# Git_course
+
+for Elzero web school course
+
+## Project Notes
